@@ -1,0 +1,11 @@
+# testlist generated on 2024-07-26 03:46 GMT
+/home/shakti-iitm/RCT/new-ctg/riscv-ctg/Zcmp/RV32/PUSHTEST_RLIST15/cm.push-01.S:
+  commit_id: '-'
+  work_dir: /home/shakti-iitm/Zcmp_Results/RV32/PUSH_RLIST15/cm.push-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zca_Zcmp
+  coverage_labels:
+  - cm.push
+  test_path: /home/shakti-iitm/RCT/new-ctg/riscv-ctg/Zcmp/RV32/PUSHTEST_RLIST15/cm.push-01.S
